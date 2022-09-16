@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: Exams section contains exams from both spring and summer 2005.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
 title: Exams
 uid: bae9fee9-2b8d-cb85-3d61-bbd41356f964
+video_metadata:
+  youtube_id: null
 ---
 
 This course is based on the work of the MIT-African Internet Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students to integrate computers and internet technology into the education of students in African schools. MIT-AITI achieves this goal by sending MIT students to three African nations in order to teach both students and teachers through intensive classroom and lab sessions for six weeks.
@@ -86,9 +89,9 @@ In-class Quiz ({{% resource_link 3d7f7629-81c9-fb84-4835-912485934fa7 "PDF" %}})
 Live Coding Exam 1 ({{% resource_link 95424ed3-3897-e7dd-a404-92fd040d6b09 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-ExamTester.java ([JAVA](./resolveuid/a62cb4da15b36a860815c3c984cbee31))  
+ExamTester.java ({{% resource_link "a62cb4da-15b3-6a86-0815-c3c984cbee31" "JAVA" %}})  
   
-MusicMatatu.java ([JAVA](./resolveuid/68ce963d97ef860a3b929b6486a48737))
+MusicMatatu.java ({{% resource_link "68ce963d-97ef-860a-3b92-9b6486a48737" "JAVA" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +100,7 @@ MusicMatatu.java ([JAVA](./resolveuid/68ce963d97ef860a3b929b6486a48737))
 Live Coding Exam 2 ({{% resource_link e5f1030f-4f63-f4a3-ddae-d6bce6862fda "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-PlayerRoster ([TXT](./resolveuid/79a07e89ccf5780182c47ff01951fd87))
+PlayerRoster ({{% resource_link "79a07e89-ccf5-7801-82c4-7ff01951fd87" "TXT" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

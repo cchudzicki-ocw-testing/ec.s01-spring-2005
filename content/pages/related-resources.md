@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: Related resources section contains list of useful links for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: f3f93511-1f2c-dc1e-2b38-b586588bbfc4
+video_metadata:
+  youtube_id: null
 ---
 
 This course is based on the work of the MIT-African Internet Technology Initiative (MIT-AITI). MIT-AITI is an innovative approach by MIT students to integrate computers and internet technology into the education of students in African schools. MIT-AITI achieves this goal by sending MIT students to three African nations in order to teach both students and teachers through intensive classroom and lab sessions for six weeks.
